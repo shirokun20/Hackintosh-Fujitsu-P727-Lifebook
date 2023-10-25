@@ -2,10 +2,6 @@
 
 ---
 
-
-**Foil or film, we shall enter The Kiln**
-
-
 ## Specification
 
 | | |
